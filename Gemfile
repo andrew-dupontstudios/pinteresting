@@ -39,6 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'bootstrap-sass'
+gem 'devise'
 
 group :development, :test do
      gem 'sqlite3'
