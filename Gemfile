@@ -43,6 +43,8 @@ gem 'devise'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'jquery-turbolinks', '~> 2.1.0'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 group :development, :test do
      gem 'sqlite3'
