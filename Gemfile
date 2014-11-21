@@ -41,7 +41,7 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'paperclip', github: 'thoughtbot/paperclip'
-gem 'jquery-turbolinks'
+gem 'jquery-turbolinks', '~> 2.1.0'
 gem 'masonry-rails', '~> 0.2.0'
 
 group :development, :test do
